@@ -9,23 +9,23 @@ div{
 font-weight: bolder;
 margin-top:10px;
 }
-@media (min-width:300px){
+@media (min-width:576px){
     #fotodeperfil{
         position: absolute;
         width: 15%;
         border-radius: 100%;
-        box-shadow: 4px 4px 4px brown;
+        box-shadow: 4px 4px 4px rgb(238, 227, 227);
         left: 2%;
-        top: auto;
+        top: 600px;
     }
 }
-@media (max-width:300px){
+@media (max-width:575px){
     #fotodeperfil{
         position: absolute;
         width: 15%;
         border-radius: 100%;
-        box-shadow: 4px 4px 4px brown;
+        box-shadow: 4px 4px 4px rgb(226, 172, 172);
         left: 33%;
-        top: 630px;
+        top: 950px;
     }
 }

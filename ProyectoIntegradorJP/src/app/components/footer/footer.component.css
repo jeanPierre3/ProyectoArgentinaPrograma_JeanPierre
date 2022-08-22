@@ -1,0 +1,14 @@
+.row{
+    background-color: burlywood;
+
+
+}
+.footer{
+    color: whitesmoke;
+    font-size: 15px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    text-align:center;
+    box-shadow: 10px 10px 20px;
+}
